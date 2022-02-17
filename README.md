@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChandanaDeveloper</h1>
 <h3 align="center">A passionate Developer in Python</h3>
 
-<image align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
+<img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advanced Analytical skills**
